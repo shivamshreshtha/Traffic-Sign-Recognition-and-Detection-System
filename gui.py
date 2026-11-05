@@ -1,3 +1,8 @@
+"""
+Traffic Sign Recognition GUI
+Created by: Shivam Shreshtha
+"""
+
 from loading import load_dataset
 from visualizing import visualize, show_accuracy_loss_graphs
 from training import train

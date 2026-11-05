@@ -23,3 +23,7 @@ For training using GPU (tested with RTX3050 Mobile):<br>
 
 
 [Link to Research Paper](assets/Traffic%20Sign%20Recognition%20Research%20Paper%20PBL%20v3.pdf)
+
+---
+**Author / Created by**: [Shivam Shreshtha](mailto:shivamshreshtha2@gmail.com)
+

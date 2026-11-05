@@ -1,3 +1,8 @@
+"""
+Traffic Sign Recognition using YOLOv8 Algorithm extended with CNN
+Created by: Shivam Shreshtha
+"""
+
 from loading import load_dataset
 from visualizing import visualize, show_accuracy_loss_graphs
 from training import train
