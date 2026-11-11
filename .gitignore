@@ -1,3 +1,5 @@
+# Traffic Sign Recognition and Detection System - Git Ignore Configuration
+# Deep Learning Project under the Guidance of IBM
 /.idea
 /venv
 

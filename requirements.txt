@@ -1,3 +1,5 @@
+# Traffic Sign Recognition and Detection System - Project Dependencies
+# Deep Learning Project under the Guidance of IBM | FET AIML (2024 - 2026)
 numpy==1.24.2
 pandas==1.5.3
 matplotlib==3.7.1

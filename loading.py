@@ -1,3 +1,15 @@
+"""
+Traffic Sign Recognition and Detection System
+Deep Learning Project | Department of FET AIML
+Under the Guidance of IBM | Academic Session: 2024 - 2026
+
+Authors:
+- SHIVAM SHRESHTHA (FET-BAML-2024-28-084)
+- K. DIGANT PATRO (FET-BAML-2024-28-082)
+- AMRITANSH MANOJ SOHANI (FET-BAML-2024-28-083)
+- ANSHUMAN NATH (FET-BAML-2024-28-085)
+"""
+
 import os
 import numpy as np
 import cv2 as cv
