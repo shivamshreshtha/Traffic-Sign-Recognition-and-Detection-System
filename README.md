@@ -1,7 +1,7 @@
 # Traffic Sign Recognition and Detection System
 
 <p align="center">
-  <strong>Deep Learning Capstone Project | Academic Session 2024 &ndash; 2026</strong><br>
+  <strong>Deep Learning Capstone Project </strong><br>
   <strong>Department of Artificial Intelligence & Machine Learning (AIML)</strong><br>
   <strong>Faculty of Engineering and Technology (FET)</strong>
 </p>
